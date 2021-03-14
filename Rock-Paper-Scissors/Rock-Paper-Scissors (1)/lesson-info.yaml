@@ -1,0 +1,9 @@
+type: framework
+custom_name: Rock-Paper-Scissors
+content:
+- Unfair computer
+- Equalizing chances
+- Endless game
+- Scoring the game
+- More options
+current_task: 4
